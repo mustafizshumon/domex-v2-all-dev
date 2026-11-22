@@ -28,3 +28,11 @@ The site is a static front-end. The contact form is a visual demo until connecte
 
 ## Responsive support
 The layout includes responsive breakpoints for large desktop monitors, standard laptops, tablets, mobile phones, narrow phones and short landscape screens. Navigation becomes an accessible collapsible menu on tablet/mobile widths. Images, forms, cards, galleries and footer layouts adapt to available screen width.
+
+
+## Compact header and footer update
+The shared header has a shorter profile and tighter navigation spacing. The footer now uses a narrower centered content width, reduced vertical padding, smaller logo and typography, four balanced desktop columns, and compact tablet/mobile layouts. These refinements apply consistently to all five pages.
+
+
+## DOMEX Design System v2 — layout calibration
+This release consolidates the visual proportions across all five pages using a shared 12-column-inspired container system (maximum content width 1200px), an 8px spacing scale, consistent responsive gutters, controlled typography measures, aligned card grids, proportional hero and inner-page banners, and a narrower compact footer. Responsive layouts cover desktop, laptop, tablet, mobile and narrow mobile widths. Existing brand assets, page content and vanilla JavaScript architecture are retained.
